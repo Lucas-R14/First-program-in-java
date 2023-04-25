@@ -2,7 +2,7 @@
 
  --> Main: A program that ask the user's name and age.
 
- --> How do I made it: 
+ --> How I made it: 
 
 -I created a scanner object to scan the varibles more after in the program.
 
