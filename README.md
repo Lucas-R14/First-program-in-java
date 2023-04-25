@@ -8,6 +8,6 @@
 
  - Made an output with "Systen.out.println()" to show the user's what the program is asking for.
  
- -Utilizes the scanner object to make an input with the informations asked.
+ - Utilizes the scanner object to make an input with the informations asked.
  
- -Finish the program showing a short text with the name and the age entered before.
+ - Finish the program showing a short text with the name and the age entered before.
